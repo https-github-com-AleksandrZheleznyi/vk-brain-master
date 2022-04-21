@@ -1,0 +1,93 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Stage1" preserve="all" />
+    <type fullname="Stage4" preserve="all" />
+    <type fullname="LevelLanguageBase" preserve="all" />
+    <type fullname="Stage6" preserve="all" />
+    <type fullname="Stage7" preserve="all" />
+    <type fullname="Stage8" preserve="all" />
+    <type fullname="Stage9" preserve="all" />
+    <type fullname="Stage13" preserve="all" />
+    <type fullname="Stage12" preserve="all" />
+    <type fullname="Stage14" preserve="all" />
+    <type fullname="Stage16" preserve="all" />
+    <type fullname="ZoomDesktopObject" preserve="all" />
+    <type fullname="Stage17" preserve="all" />
+    <type fullname="Stage18" preserve="all" />
+    <type fullname="Stage19" preserve="all" />
+    <type fullname="Egg" preserve="all" />
+    <type fullname="Stage20" preserve="all" />
+    <type fullname="Stage22" preserve="all" />
+    <type fullname="Stage21" preserve="all" />
+    <type fullname="Stage24" preserve="all" />
+    <type fullname="Cell" preserve="all" />
+    <type fullname="Stage23" preserve="all" />
+    <type fullname="Stage25" preserve="all" />
+    <type fullname="Stage26" preserve="all" />
+    <type fullname="Stage27" preserve="all" />
+    <type fullname="Stage28" preserve="all" />
+    <type fullname="Stage29" preserve="all" />
+    <type fullname="Stage30" preserve="all" />
+    <type fullname="Stage32" preserve="all" />
+    <type fullname="Stage35" preserve="all" />
+    <type fullname="Stage36" preserve="all" />
+    <type fullname="Stage37" preserve="all" />
+    <type fullname="Stage38" preserve="all" />
+    <type fullname="Stage39" preserve="all" />
+    <type fullname="Stage42" preserve="all" />
+    <type fullname="Stage40" preserve="all" />
+    <type fullname="Stage41" preserve="all" />
+    <type fullname="Stage43" preserve="all" />
+    <type fullname="Stage44" preserve="all" />
+    <type fullname="Stage45" preserve="all" />
+    <type fullname="Stage48" preserve="all" />
+    <type fullname="Stage47" preserve="all" />
+    <type fullname="Stage46" preserve="all" />
+    <type fullname="Stage49" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+</linker>
