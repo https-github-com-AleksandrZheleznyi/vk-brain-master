@@ -17,6 +17,7 @@
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Text" preserve="all" />
@@ -28,8 +29,7 @@
     <type fullname="UnityEngine.UI.InputField" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
-    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
-    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Stage1" preserve="all" />
@@ -60,34 +60,29 @@
     <type fullname="Stage28" preserve="all" />
     <type fullname="Stage29" preserve="all" />
     <type fullname="Stage30" preserve="all" />
-    <type fullname="Stage32" preserve="all" />
-    <type fullname="Stage35" preserve="all" />
-    <type fullname="Stage36" preserve="all" />
-    <type fullname="Stage37" preserve="all" />
-    <type fullname="Stage38" preserve="all" />
-    <type fullname="Stage39" preserve="all" />
-    <type fullname="Stage42" preserve="all" />
-    <type fullname="Stage40" preserve="all" />
-    <type fullname="Stage41" preserve="all" />
-    <type fullname="Stage43" preserve="all" />
-    <type fullname="Stage44" preserve="all" />
-    <type fullname="Stage45" preserve="all" />
-    <type fullname="Stage48" preserve="all" />
-    <type fullname="Stage47" preserve="all" />
-    <type fullname="Stage46" preserve="all" />
-    <type fullname="Stage49" preserve="all" />
+    <type fullname="WebHelper.Ads.AdsSelector.AdsBlockSelector" preserve="all" />
+    <type fullname="WebHelper.Extensions.Mono.SPAnimationController" preserve="all" />
+    <type fullname="WebHelper.Ads.Controllers.SPShowAdsController" preserve="all" />
+    <type fullname="WebHelper.Extensions.SPGameObjectsManager" preserve="all" />
+    <type fullname="BrainMaster.EventPreviewPanel" preserve="all" />
+    <type fullname="WebHelper.Effect.CustomButtonAnim" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
     <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
   </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animation" preserve="all" />
   </assembly>
 </linker>
